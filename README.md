@@ -45,3 +45,5 @@ The script generates two visualization images:
 
   ##screenshots
   ![superposition_results](https://github.com/user-attachments/assets/aa60eaad-7914-489a-affc-41a72f9ed801)
+  ![bell_state_results](https://github.com/user-attachments/assets/f0b9c58a-e205-449a-a2d5-0cc92f9cc36c)
+
